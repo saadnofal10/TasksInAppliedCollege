@@ -21,3 +21,4 @@ Sums/
 🛠️ المتطلبات
 - Visual Studio 2019 أو أحدث
 - .NET Framework 4.7.2 أو أحدث؟
+- all the best from saad😊
